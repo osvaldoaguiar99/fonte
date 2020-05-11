@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Don Graffiti';
+    src: url('DonGraffitiRegular.eot');
+    src: url('DonGraffitiRegular.eot?#iefix') format('embedded-opentype'),
+        url('DonGraffitiRegular.woff2') format('woff2'),
+        url('DonGraffitiRegular.woff') format('woff'),
+        url('DonGraffitiRegular.ttf') format('truetype'),
+        url('DonGraffitiRegular.svg#DonGraffitiRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
